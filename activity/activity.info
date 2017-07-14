@@ -9,3 +9,4 @@ show_launcher = yes
 website = http://wiki.sugarlabs.org/go/Activities/Turtle_Art
 mime_types = application/x-turtle-art;application/vnd.turtleblocks
 summary = Use the turtle to draw country flags
+categories = test awesome sugar
